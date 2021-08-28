@@ -1,5 +1,5 @@
 # CRL-code
-Code release for the paper [Competing Ratio Loss for Discriminative Multi-class Image Classification](). 
+Code release for the paper “Competing Ratio Loss for Discriminative Multi-class Image Classification”. 
 
 ## Requirements
 
@@ -16,8 +16,8 @@ python main.py
 ```
 ## Dataset
 
-#### cifar-10
-#### cifar-100
+cifar-10
+cifar-100
 
 ## Contact
 
