@@ -16,8 +16,8 @@ python main.py
 ```
 ## Dataset
 
-cifar-10
-cifar-100
+* cifar-10
+* cifar-100
 
 ## Contact
 
