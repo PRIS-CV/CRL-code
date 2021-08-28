@@ -1,5 +1,5 @@
 # CRL-code
-Code release for the paper “Competing Ratio Loss for Discriminative Multi-class Image Classification” (IEEE Neurocomputing 2021). 
+Code release for the paper “Competing Ratio Loss for Discriminative Multi-class Image Classification” (Neurocomputing 2021). 
 
 ## Requirements
 
